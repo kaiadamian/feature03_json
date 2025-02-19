@@ -1,14 +1,34 @@
-{
-    "users": [
-      {
-        "id": 1,
-        "name": "John Doe",
-        "email": "john.doe@example.com"
-      },
-      {
-        "id": 2,
-        "name": "Jane Smith",
-        "email": "jane.smith@example.com"
-      }
-    ]
-  }
+{"classes": [
+  {
+    "department": "CSE",
+    "professor": "Theisen",
+    "building": "Fitzpatrick",
+    "courseID": "30321",
+    "name": "Intro to AI",
+    "start": "3:30"
+  },
+  {
+    "department": "CSE",
+    "professor": "Wicks",
+    "building": "Fitzpatrick",
+    "courseID": "404693",
+    "name": "Modern Web Dev",
+    "start": "3:30"
+  }, 
+  {
+    "department": "CSE",
+    "professor": "Thain",
+    "building": "Pasquerilla Center",
+    "courseID": "30341",
+    "name": "Op Sys",
+    "start": "9:25"
+  },
+  {
+    "department": "GLAF",
+    "professor": "Grubert",
+    "building": "Jenkins and Nanovic",
+    "courseID": "40113",
+    "name": "Energy Justice ",
+    "start": "5:05"
+  } 
+]}
